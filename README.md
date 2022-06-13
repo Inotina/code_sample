@@ -1,1 +1,1 @@
-Main logic for custom report processing framework. In this calls you can see saving report request and than processing it or not(depends on setting if we dont want to run processing on all nodes)
+Main logic for custom report processing framework. In this class you can see saving report request and than processing it or not(depends on setting if we dont want to run processing on all nodes) and also it cantains method to generate download url for processed report. Also there is a setting to setup number of cuncurrently processing reports and by default this number is 1.
